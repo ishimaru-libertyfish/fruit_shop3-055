@@ -1,0 +1,8 @@
+# config/locales/ja.yml
+
+ja:
+  enums:
+    product:
+      status:
+        on_sale: 販売中
+        sold_out: 売り切れ
